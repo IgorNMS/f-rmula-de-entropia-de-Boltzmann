@@ -1,0 +1,13 @@
+C:\Users\nasci\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\Entropy calc.exe
+C:\Users\nasci\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\Entropy calc.deps.json
+C:\Users\nasci\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\Entropy calc.runtimeconfig.json
+C:\Users\nasci\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\Entropy calc.runtimeconfig.dev.json
+C:\Users\nasci\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\Entropy calc.dll
+C:\Users\nasci\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\Entropy calc.pdb
+C:\Users\nasci\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\Entropy calc.csprojAssemblyReference.cache
+C:\Users\nasci\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\Entropy calc.AssemblyInfoInputs.cache
+C:\Users\nasci\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\Entropy calc.AssemblyInfo.cs
+C:\Users\nasci\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\Entropy calc.csproj.CoreCompileInputs.cache
+C:\Users\nasci\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\Entropy calc.dll
+C:\Users\nasci\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\Entropy calc.pdb
+C:\Users\nasci\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\Entropy calc.genruntimeconfig.cache
