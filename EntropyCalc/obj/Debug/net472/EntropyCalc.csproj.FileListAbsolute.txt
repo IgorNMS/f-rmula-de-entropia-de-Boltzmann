@@ -1,0 +1,9 @@
+C:\Users\nasci\RiderProjects\f-rmula-de-entropia-de-Boltzmann\EntropyCalc\bin\Debug\net472\EntropyCalc.exe.config
+C:\Users\nasci\RiderProjects\f-rmula-de-entropia-de-Boltzmann\EntropyCalc\bin\Debug\net472\EntropyCalc.exe
+C:\Users\nasci\RiderProjects\f-rmula-de-entropia-de-Boltzmann\EntropyCalc\bin\Debug\net472\EntropyCalc.pdb
+C:\Users\nasci\RiderProjects\f-rmula-de-entropia-de-Boltzmann\EntropyCalc\obj\Debug\net472\EntropyCalc.csprojAssemblyReference.cache
+C:\Users\nasci\RiderProjects\f-rmula-de-entropia-de-Boltzmann\EntropyCalc\obj\Debug\net472\EntropyCalc.AssemblyInfoInputs.cache
+C:\Users\nasci\RiderProjects\f-rmula-de-entropia-de-Boltzmann\EntropyCalc\obj\Debug\net472\EntropyCalc.AssemblyInfo.cs
+C:\Users\nasci\RiderProjects\f-rmula-de-entropia-de-Boltzmann\EntropyCalc\obj\Debug\net472\EntropyCalc.csproj.CoreCompileInputs.cache
+C:\Users\nasci\RiderProjects\f-rmula-de-entropia-de-Boltzmann\EntropyCalc\obj\Debug\net472\EntropyCalc.exe
+C:\Users\nasci\RiderProjects\f-rmula-de-entropia-de-Boltzmann\EntropyCalc\obj\Debug\net472\EntropyCalc.pdb
